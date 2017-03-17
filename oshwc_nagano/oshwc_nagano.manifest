@@ -1,0 +1,13 @@
+CACHE MANIFEST
+
+# version 1.6
+
+CACHE:
+place.jpg
+question.jpg
+
+NETWORK:
+*
+
+FALLBACK:
+error.html
